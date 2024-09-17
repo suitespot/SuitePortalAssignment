@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "sumit@gmail.com",
+      "password": "$2b$10$n6S4jaUNxcyOUwWRb9t/aO9ekDFkPoCWYemA75R6aTP.e/sOcvqiu"
+    },
+    {
+      "email": "sumit5@gmail.com",
+      "password": "$2b$10$cwcnDb7UvRaIQpvYug7Cle24KnLaXJNL1fIPiy0WiCHx/NzJTesaW"
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2b$10$xviBw14g3E6XYisz8WY7X.mjQXdjEVj6Fi4NkH8wvYkDxJdljdCeO"
+    },
+    {
+      "email": "jp@gmail.com",
+      "password": "$2b$10$43DRH9tdqicyXhl8cTG1pesjw0eNOjU07FLBg6VfbqT7GHfN1dod2"
+    }
+  ]
+}
